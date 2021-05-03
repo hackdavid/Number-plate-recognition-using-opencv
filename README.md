@@ -1,9 +1,9 @@
 # Number-plate-recognition-using-opencv
 In my previous project  , i saw you how to detect a number plate from an image using opencv .<br>
-Now In this tutorial , i am going to show you how you can extract the number (read the number from the detected plate). if you want to know extactly which number plate is this or if you want to know the number of detected plate then please follow each step carefully.
+Now In this tutorial , i am going to show you how you can extract the number (read the number from the detected plate). if you want to know extactly which number plate is this or if you want to know the number of detected plate then please follow each step carefully.<br>
 
-<br><h2>if you don't see the previous tutorial , please take a look once then come back here </h2>
-<br>https://github.com/hackdavid/Number-plate-detection-using-opencv
+<h2>if you don't see the previous tutorial , please take a look once then come back here </h2><br>
+https://github.com/hackdavid/Number-plate-detection-using-opencv
 <br>
 or<br>
 https://www.youtube.com/watch?v=OCx1cd6RO74&list=PLE6B2XpeO0w8yYGCJ4IIInfmmuAu2tz7W&index=5
