@@ -19,6 +19,8 @@ pip install numpy
 <h1> please watch this video to download and install pytesseract </h1><br>
 https://youtu.be/pUcmws-l-FM <br>
 <h2> Download Pytesseract </h2>
-https://github.com/hackdavid/text_detection-and-recognition
+https://github.com/hackdavid/text_detection-and-recognition <br>
+
+<h3>Note: Change the path of pytesseract </h3>
 
 
