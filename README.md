@@ -16,6 +16,7 @@ Install library
 pip install opencv-python
 pip install numpy
 
-<h1> please watch this video to download and install pytesseract </h1>
+<h1> please watch this video to download and install pytesseract </h1><br>
+https://youtu.be/pUcmws-l-FM
 
 
